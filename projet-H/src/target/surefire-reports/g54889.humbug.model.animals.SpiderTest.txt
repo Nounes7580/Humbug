@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: g54889.humbug.model.animals.SpiderTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in g54889.humbug.model.animals.SpiderTest
